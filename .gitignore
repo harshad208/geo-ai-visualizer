@@ -1,0 +1,15 @@
+# This file tells Git which files and folders to ignore.
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/api/__pycache__/
+backend/app/services/__pycache__/
+
+# Frontend
+frontend/.next/
+frontend/node_modules/
+
+# OS-specific
+.DS_Store

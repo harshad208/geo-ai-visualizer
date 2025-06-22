@@ -1,0 +1,23 @@
+# backend/requirements.txt
+
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# AI & Data
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+
+# New additions for scraping and advanced AI
+beautifulsoup4
+httpx
+ollama
+
+# ... other requirements
+duckduckgo-search
+
+spacy
+geopy

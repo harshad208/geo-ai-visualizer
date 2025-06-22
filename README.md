@@ -68,7 +68,7 @@ Before running the app locally, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/geo-ai-visualizer.git
+git clone https://github.com/harshad208/geo-ai-visualizer.git
 cd geo-ai-visualizer
 
 ```
